@@ -9,7 +9,7 @@ This project demonstrates how to use bootstrap using npm and customize the frame
 
 ## Getting Started
 
-- Clone this repo using  `git clone https://github.com/jack-coder-25/bootstrap-5-npm-starter.git`
+- Clone this repo using  `git clone https://github.com/jagadeesh-k-2802/bootstrap-5-npm-starter.git`
 - Change directory `cd bootstrap-5-npm-starter`
 - Install packages `npm i`
 - Run dev server `npm start`
